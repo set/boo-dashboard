@@ -1,0 +1,10 @@
+#dashboard-layout {
+  position: relative;
+  width: 100vw;
+  max-width: 100%;
+  display: grid;
+  grid-template-columns: 300px 1fr;
+  .content {
+    background: red;
+  }
+}
