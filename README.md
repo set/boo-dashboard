@@ -5,6 +5,8 @@ Boo Dashboard is a simple Dashboard Template. Created with React.
 
 ![Boo Dashboard](https://i.hizliresim.com/mm3Fcf.png "Dashboard Preview")
 
+You can access to [Design on Figma](https://www.figma.com/file/DY97A32uO354ZnYNGwayab/fitness-pal?node-id=0%3A1)
+
 ### Available Scripts
 
 In the project directory, you can run:
